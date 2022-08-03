@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Ashmam Khan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm Raja-farhad</h1>
 <br/>
 
 <p align="left">I am a Front End / Full Stack Web Developer with 3+ years of experience building web Development.</p>
@@ -40,7 +40,7 @@
 </ul>  
 
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKAshmamKhan&" alt="AKAshmamKhan" width="100%" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raja-farhad&" alt="Raja-farhad" width="100%" /></p>
 
 <br/>
 <h3 align="left">Connect with me:</h3>
